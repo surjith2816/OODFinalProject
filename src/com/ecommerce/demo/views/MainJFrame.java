@@ -56,7 +56,7 @@ public class MainJFrame extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(102, 255, 102));
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("OOD FINAL PROJECT : ECOMMERCE - TEAM 4");
+        jLabel1.setText("Online Store");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
